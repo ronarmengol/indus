@@ -2176,7 +2176,8 @@ input, select, textarea {
 
 	#header {
 		position: relative;
-		background-image: url("../../images/header1.png");
+		/* background-image: url("../../images/header1.png"); */
+		background-image: url(https://media.giphy.com/media/RLWLTNvEpeEh66dLur/giphy.gif);
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
@@ -2918,7 +2919,7 @@ input, select, textarea {
 						color: rgba(255, 255, 255, 0.75);
 						text-align: center;
 						display: block;
-						font-size: 14px;
+						font-size: 40px;
 						width: 80px;
 						height: 30px;
 						line-height: 30px;
@@ -2953,7 +2954,7 @@ input, select, textarea {
 				z-index: 10002;
 				background: #1f1920;
 				box-shadow: inset 0px -2px 5px 0px rgba(0, 0, 0, 0.25);
-				font-size: 1em;
+				font-size: 2rem;
 			}
 
 				#navPanel:before {
