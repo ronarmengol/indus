@@ -2915,7 +2915,7 @@ input, select, textarea {
 					#navButton .toggle:before {
 						text-decoration: none;
 						font-style: normal;
-						content: '\f0c9';
+						content: 'menu';
 						color: #fff;
 						color: rgba(255, 255, 255, 0.75);
 						text-align: center;
@@ -2927,7 +2927,7 @@ input, select, textarea {
 						position: absolute;
 						left: 50%;
 						margin-left: -40px;
-						background: rgba(132, 128, 136, 0.75);
+						/* background: rgba(132, 128, 136, 0.75); */
 						border-top: 0;
 						border-radius: 0 0 0.35em 0.35em;
 					}
